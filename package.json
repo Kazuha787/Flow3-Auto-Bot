@@ -1,0 +1,36 @@
+{
+    "name": "flow3-auto-bot",
+    "version": "1.0.0",
+    "description": "Automated task completion bot for Flow3 platform",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Kazuha787/Flow3-Auto-Bot.git"
+    },
+    "keywords": [
+      "flow3",
+      "airdrop",
+      "task",
+      "bot",
+      "automation",
+      "cryptocurrency"
+    ],
+    "author": "Kazuha787",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Kazuha787/Flow3-Auto-Bot/issues"
+    },
+    "homepage": "https://github.com/Kazuha787/Flow3-Auto-Bot#readme",
+    "dependencies": {
+      "axios": "^1.6.8",
+      "https-proxy-agent": "^7.0.4"
+    },
+    "engines": {
+      "node": ">=16.0.0",
+      "npm": ">=8.0.0"
+    }
+  }
